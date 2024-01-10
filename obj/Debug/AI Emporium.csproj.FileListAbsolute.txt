@@ -1,0 +1,10 @@
+C:\Users\princesita sofia\Documents\proyectos de software\c#\AI Emporium\bin\Debug\AI Emporium.exe.config
+C:\Users\princesita sofia\Documents\proyectos de software\c#\AI Emporium\bin\Debug\AI Emporium.exe
+C:\Users\princesita sofia\Documents\proyectos de software\c#\AI Emporium\bin\Debug\AI Emporium.pdb
+C:\Users\princesita sofia\Documents\proyectos de software\c#\AI Emporium\obj\Debug\AI Emporium.csproj.AssemblyReference.cache
+C:\Users\princesita sofia\Documents\proyectos de software\c#\AI Emporium\obj\Debug\AI_Emporium.home.resources
+C:\Users\princesita sofia\Documents\proyectos de software\c#\AI Emporium\obj\Debug\AI_Emporium.Properties.Resources.resources
+C:\Users\princesita sofia\Documents\proyectos de software\c#\AI Emporium\obj\Debug\AI Emporium.csproj.GenerateResource.cache
+C:\Users\princesita sofia\Documents\proyectos de software\c#\AI Emporium\obj\Debug\AI Emporium.csproj.CoreCompileInputs.cache
+C:\Users\princesita sofia\Documents\proyectos de software\c#\AI Emporium\obj\Debug\AI Emporium.exe
+C:\Users\princesita sofia\Documents\proyectos de software\c#\AI Emporium\obj\Debug\AI Emporium.pdb
